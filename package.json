@@ -1,14 +1,14 @@
 {
-    "name": "@nick-mazuk/tsconfig",
+    "name": "@finale-lua/tsconfig",
     "version": "0.1.1",
     "description": "an tsconfig for my personal projects",
-    "homepage": "https://github.com/Nick-Mazuk/tsconfig#readme",
+    "homepage": "https://github.com/finale-lua/tsconfig#readme",
     "bugs": {
-        "url": "https://github.com/Nick-Mazuk/tsconfig/issues"
+        "url": "https://github.com/finale-luak/tsconfig/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Nick-Mazuk/tsconfig"
+        "url": "https://github.com/finale-lua/tsconfig"
     },
     "main": "tsconfig.json",
     "directories": {
