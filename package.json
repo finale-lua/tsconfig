@@ -1,6 +1,6 @@
 {
     "name": "@finale-lua/tsconfig",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "an tsconfig for my personal projects",
     "homepage": "https://github.com/finale-lua/tsconfig#readme",
     "bugs": {
@@ -22,5 +22,8 @@
     "license": "MIT",
     "peerDependencies": {
         "typescript": ">= 4.0.0"
+    },    
+    "publishConfig": {
+        "access": "public"
     }
 }
